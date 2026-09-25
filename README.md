@@ -1,4 +1,4 @@
-# Scraper-library
+# Scraper-Library
 10 Most useful scraping tools.
 # 🚀 10 Open-Source Web Scraping & AI Crawling Repositories
 
